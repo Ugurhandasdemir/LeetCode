@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2383-add-two-integers) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0058-length-of-last-word) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
