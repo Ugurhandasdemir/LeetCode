@@ -1,5 +1,12 @@
-class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        last_world = s.strip().split(" ")
-        last_world = last_world[-1]
-        return len(last_world)
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        words = s.strip().split()
+
+        if not words:
+            return 0
+
+        return len(words[-1])
