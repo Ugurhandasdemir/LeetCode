@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+## Simulation
+|  |
+| ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
