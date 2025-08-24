@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Simulation
 |  |
 | ------- |
