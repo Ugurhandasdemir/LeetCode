@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0058-length-of-last-word) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
