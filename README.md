@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0058-length-of-last-word) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 <!---LeetCode Topics End-->
