@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Linked List
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 <!---LeetCode Topics End-->
