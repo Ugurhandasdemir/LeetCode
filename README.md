@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
