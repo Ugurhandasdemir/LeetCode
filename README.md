@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
