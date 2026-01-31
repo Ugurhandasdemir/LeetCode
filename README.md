@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1035-cousins-in-binary-tree](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 ## Greedy
 |  |
@@ -116,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0190-reverse-bits) |
+## Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
