@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Linked List
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
 | [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
 ## Breadth-First Search
 |  |
 | ------- |
