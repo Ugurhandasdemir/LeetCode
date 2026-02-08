@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Database
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
 ## Breadth-First Search
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
