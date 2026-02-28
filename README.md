@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2383-add-two-integers) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
