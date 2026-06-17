@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0890-lemonade-change) |
+| [1222-remove-covered-intervals](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1222-remove-covered-intervals](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2834-relocate-marbles](https://github.com/Ugurhandasdemir/LeetCode/tree/master/2834-relocate-marbles) |
