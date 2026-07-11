@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [3782-find-valid-emails](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3782-find-valid-emails) |
 ## Counting
 |  |
 | ------- |
