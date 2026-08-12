@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0058-length-of-last-word) |
 | [0459-repeated-substring-pattern](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0851-goat-latin](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0851-goat-latin) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3447-clear-digits](https://github.com/Ugurhandasdemir/LeetCode/tree/master/3447-clear-digits) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Ugurhandasdemir/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ugurhandasdemir/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
